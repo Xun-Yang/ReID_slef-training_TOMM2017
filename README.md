@@ -3,8 +3,10 @@ In this package, we provide the source code for our new paper :
 
 Xun Yang, Meng Wang, Richang Hong, Qi Tian, Yong Rui. Enhancing Person Re-identification in a Self-trained Subspace. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2017. (https://arxiv.org/abs/1704.06020)
 
-It presents a simple yet effective semi-supervised approach for person re-identification. 
+Our work presents a simple yet effective semi-supervised approach for person re-identification. 
 Note that it was just accepted by TOMM, and may take several months to appear on TOMM formally.
+
+We only provide the GOG feature of the VIPeR dataset in the 'Features' folder. For the GOG feature of the CUHK01 dataset, please download the GOG_CUHK01.zip file from the page  http://www.i.kyushu-u.ac.jp/~matsukawa/ReID.html.
 
 To use this code, pls also cite the following paper:
 
