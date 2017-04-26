@@ -10,7 +10,7 @@
 %%% Pls feel free to contact us for any questions (hfutyangxun@gmail.com).
 %%%
 %%% 
-%%% To use this code and the GOG descriptor, pls also cite the following paper:
+%%% Pls also cite the following paper if you use this code:
 %%%
 %%%    Tetsu Matsukawa, Takahiro Okabe, Einoshin Suzuki, Yoichi Sato. “Hierarchical Gaussian Descriptor for Person Re-Identification”.     
 %%%    in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR2016), pp.1363--1372, 2016 
