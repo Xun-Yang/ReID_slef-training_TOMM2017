@@ -21,16 +21,12 @@ Kideal=double(bsxfun(@eq, labeltrain, labeltrain'));
  Y = bsxfun(@eq, galLabels(1:ST), probLabels(1:ST)');
  clear  galX1  probX1 galX2  probX2 galLabels probLabels
  Y = double(Y);
- Y(Y == 0) = -1;
 
  Wzero= zeros(size(Y));
  W=[Wzero Y; Y Wzero];
 
  W=W-diag(diag(W));
- W(W ==1) =1;
- W(W ==-1) =0;
 
-%  W=(W+W')/2;
  D=sum(W);
  D=diag(D);
  L=D-W;
@@ -66,7 +62,8 @@ Kideal=double(bsxfun(@eq, labeltrain, labeltrain'));
           tempW=Ws;
       else
           Wdist=pdist2(tempW(:)',Ws(:)','cosine');
-          fprintf('Iter=%d, similarity=%f\n', Iter, 1-Wdist);
+         % fprintf('Iter=%d, similarity=%f\n', Iter, 1-Wdist);
+             fprintf('Iter=%d\n', Iter);
           tempW=Ws;
       end     
    
