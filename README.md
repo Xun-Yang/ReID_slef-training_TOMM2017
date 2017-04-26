@@ -8,7 +8,8 @@ Note that it was just accepted by TOMM, and may take several months to appear on
 
 We only provide the GOG feature of the VIPeR dataset in the 'Features' folder. For the GOG feature of the CUHK01 dataset, please download the GOG_CUHK01.zip file from the page  http://www.i.kyushu-u.ac.jp/~matsukawa/ReID.html.
 
-To use this code, pls also cite the following paper:
+
+Pls also cite the following paper if you use this code:
 
  Tetsu Matsukawa, Takahiro Okabe, Einoshin Suzuki, Yoichi Sato. Hierarchical Gaussian Descriptor for Person Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (CVPR2016), pp.1363--1372, 2016 
  
