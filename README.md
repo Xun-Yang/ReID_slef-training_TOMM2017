@@ -3,11 +3,16 @@ In this package, we provide the source code for our new paper :
 
 Xun Yang, Meng Wang, Richang Hong, Qi Tian, Yong Rui. Enhancing Person Re-identification in a Self-trained Subspace. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2017. 
  
-@article{Yang:2017:EPR:3104033.3089249,
+@article{Yang2017TOMM,
+
  author = {Yang, Xun and Wang, Meng and Hong, Richang and Tian, Qi and Rui, Yong},
+ 
  title = {Enhancing Person Re-identification in a Self-Trained Subspace},
+ 
  journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+ 
  issue_date = {July 2017},
+ 
  volume = {13},
  number = {3},
  month = jun,
@@ -16,7 +21,6 @@ Xun Yang, Meng Wang, Richang Hong, Qi Tian, Yong Rui. Enhancing Person Re-identi
  articleno = {27},
  numpages = {23},
  url = {http://doi.acm.org/10.1145/3089249},
- doi = {10.1145/3089249},
  publisher = {ACM},
 } 
 
