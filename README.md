@@ -6,7 +6,6 @@ Xun Yang, Meng Wang, Richang Hong, Qi Tian, Yong Rui. Enhancing Person Re-identi
 @article{Yang2017TOMM,
 
  author = {Yang, Xun and Wang, Meng and Hong, Richang and Tian, Qi and Rui, Yong},
- 
  title = {Enhancing Person Re-identification in a Self-Trained Subspace},
  
  journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
